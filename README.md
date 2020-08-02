@@ -7,12 +7,12 @@ MySql:
 	user: root
 	pass:
 	
-Drupal: (7.6.7)
+Drupal: (7.7.2)
 	user: admin
 	pass: 123
 
 Step Install Drupal on Localhost:
-1. Drupal version 7.72
+1. Drupal version 7.7.2
 2. create GIT repository and copy link for clone
 3. using composer for install Drupal (run from command line)
 	composer create-project drupal/recommended-project my_site_name_dir
